@@ -19,5 +19,9 @@ target/
 received-emails/
 emails-recus/
 
+# Ignore Visual Studio Code files
+.vscode/
+*.code-workspace
+
 # See : https://maven.apache.org/plugins/maven-shade-plugin/shade-mojo.html#createDependencyReducedPom
 dependency-reduced-pom.xml
